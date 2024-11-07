@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mags-Piwko
-- 👀 I’m interested in ...
+- 👀 I’m interested in my Vespa Primavera 2015.
 - 🌱 I’m currently learning Python and C++. I'm working on finishing the Cisco Academy and their project about Python. 
 - 💞️ I’m looking to collaborate on some Open Sources projects.
 - 📫 How to reach me for now- just text me!
